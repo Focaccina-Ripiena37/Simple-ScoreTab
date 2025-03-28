@@ -45,6 +45,16 @@ Assicurati di avere installato [Flutter](https://flutter.dev/docs/get-started/in
 
 *Nota: Sostituisci `assets/screenshot.png` con il percorso corretto dello screenshot dell'applicazione.*
 
+---
+
+## 💖 Supporta il progetto
+
+Ti piace questo tool? Offrimi un caffè ☕:
+
+[![PayPal](https://img.shields.io/badge/Supporta%20su-PayPal-blue?logo=paypal)](https://paypal.me/PrimeBuildOfficial?country.x=IT&locale.x=it_IT)
+
+---
+
 ## 🤝 Contributi
 
 Contributi e suggerimenti sono i benvenuti! Se desideri contribuire:
